@@ -10,7 +10,7 @@
 
 <ul>
   <li>Monete illimitate.</li>
-  <li>Clam illimitati.</li>
+  <li>Conchiglie illimitate.</li>
   <li>Energia illimitata.</li>
   <li>Costumi illimitati.</li>
   <li>Personaggi premium illimitati.</li>
